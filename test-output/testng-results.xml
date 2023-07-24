@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-15T09:30:31Z" name="Default suite" finished-at="2022-12-15T09:43:47Z" duration-ms="795664">
+    <groups>
+    </groups>
+    <test started-at="2022-12-15T09:30:31Z" name="Default test" finished-at="2022-12-15T09:43:47Z" duration-ms="795664">
+      <class name="tes.flipkart.AppTest">
+        <test-method is-config="true" signature="intializewebdriverandopenurl()[pri:0, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:00:31Z" name="intializewebdriverandopenurl" finished-at="2022-12-15T15:01:22Z" duration-ms="50366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializewebdriverandopenurl -->
+        <test-method signature="login()[pri:1, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:01:22Z" name="login" finished-at="2022-12-15T15:01:22Z" duration-ms="439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:01:22Z" name="closebrowser" finished-at="2022-12-15T15:01:23Z" duration-ms="597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="intializewebdriverandopenurl()[pri:0, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:01:23Z" name="intializewebdriverandopenurl" finished-at="2022-12-15T15:02:08Z" duration-ms="45480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializewebdriverandopenurl -->
+        <test-method signature="search()[pri:2, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:02:08Z" name="search" finished-at="2022-12-15T15:02:09Z" duration-ms="380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:02:09Z" name="closebrowser" finished-at="2022-12-15T15:02:09Z" duration-ms="603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="intializewebdriverandopenurl()[pri:0, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:02:09Z" name="intializewebdriverandopenurl" finished-at="2022-12-15T15:02:55Z" duration-ms="45354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializewebdriverandopenurl -->
+        <test-method signature="refresh()[pri:3, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:02:55Z" name="refresh" finished-at="2022-12-15T15:02:55Z" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:02:55Z" name="closebrowser" finished-at="2022-12-15T15:02:55Z" duration-ms="577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="intializewebdriverandopenurl()[pri:0, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:02:55Z" name="intializewebdriverandopenurl" finished-at="2022-12-15T15:04:59Z" duration-ms="123489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializewebdriverandopenurl -->
+        <test-method signature="newuser()[pri:4, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:04:59Z" name="newuser" finished-at="2022-12-15T15:04:59Z" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newuser -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:04:59Z" name="closebrowser" finished-at="2022-12-15T15:05:00Z" duration-ms="592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="intializewebdriverandopenurl()[pri:0, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:05:00Z" name="intializewebdriverandopenurl" finished-at="2022-12-15T15:05:47Z" duration-ms="47379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializewebdriverandopenurl -->
+        <test-method signature="slidech()[pri:5, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:05:47Z" name="slidech" finished-at="2022-12-15T15:05:47Z" duration-ms="254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- slidech -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:05:47Z" name="closebrowser" finished-at="2022-12-15T15:05:48Z" duration-ms="594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="intializewebdriverandopenurl()[pri:0, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:05:48Z" name="intializewebdriverandopenurl" finished-at="2022-12-15T15:06:34Z" duration-ms="46264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializewebdriverandopenurl -->
+        <test-method signature="slidess()[pri:6, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:06:34Z" name="slidess" finished-at="2022-12-15T15:06:44Z" duration-ms="10203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- slidess -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:06:44Z" name="closebrowser" finished-at="2022-12-15T15:06:45Z" duration-ms="640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="intializewebdriverandopenurl()[pri:0, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:06:45Z" name="intializewebdriverandopenurl" finished-at="2022-12-15T15:07:31Z" duration-ms="45576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializewebdriverandopenurl -->
+        <test-method signature="appliances()[pri:7, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:07:31Z" name="appliances" finished-at="2022-12-15T15:07:31Z" duration-ms="392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appliances -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:07:31Z" name="closebrowser" finished-at="2022-12-15T15:07:32Z" duration-ms="621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="intializewebdriverandopenurl()[pri:0, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:07:32Z" name="intializewebdriverandopenurl" finished-at="2022-12-15T15:08:18Z" duration-ms="46555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializewebdriverandopenurl -->
+        <test-method signature="homes()[pri:8, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:08:18Z" name="homes" finished-at="2022-12-15T15:08:18Z" duration-ms="271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homes -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:08:18Z" name="closebrowser" finished-at="2022-12-15T15:08:19Z" duration-ms="608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="intializewebdriverandopenurl()[pri:0, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:08:19Z" name="intializewebdriverandopenurl" finished-at="2022-12-15T15:09:05Z" duration-ms="46251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializewebdriverandopenurl -->
+        <test-method signature="twowheeler()[pri:9, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:09:05Z" name="twowheeler" finished-at="2022-12-15T15:09:06Z" duration-ms="325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- twowheeler -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:09:06Z" name="closebrowser" finished-at="2022-12-15T15:09:06Z" duration-ms="603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="intializewebdriverandopenurl()[pri:0, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:09:06Z" name="intializewebdriverandopenurl" finished-at="2022-12-15T15:09:52Z" duration-ms="45441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializewebdriverandopenurl -->
+        <test-method signature="travels()[pri:10, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:09:52Z" name="travels" finished-at="2022-12-15T15:09:52Z" duration-ms="339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- travels -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:09:52Z" name="closebrowser" finished-at="2022-12-15T15:09:53Z" duration-ms="579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="intializewebdriverandopenurl()[pri:0, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:09:53Z" name="intializewebdriverandopenurl" finished-at="2022-12-15T15:10:38Z" duration-ms="45674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializewebdriverandopenurl -->
+        <test-method signature="grocery()[pri:11, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:10:38Z" name="grocery" finished-at="2022-12-15T15:10:39Z" duration-ms="338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- grocery -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:10:39Z" name="closebrowser" finished-at="2022-12-15T15:10:39Z" duration-ms="614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="intializewebdriverandopenurl()[pri:0, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:10:39Z" name="intializewebdriverandopenurl" finished-at="2022-12-15T15:11:25Z" duration-ms="45661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializewebdriverandopenurl -->
+        <test-method signature="furniture()[pri:12, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:11:25Z" name="furniture" finished-at="2022-12-15T15:11:25Z" duration-ms="374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- furniture -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:11:25Z" name="closebrowser" finished-at="2022-12-15T15:11:26Z" duration-ms="584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="intializewebdriverandopenurl()[pri:0, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:11:26Z" name="intializewebdriverandopenurl" finished-at="2022-12-15T15:12:12Z" duration-ms="45991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializewebdriverandopenurl -->
+        <test-method signature="beauty()[pri:13, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:12:12Z" name="beauty" finished-at="2022-12-15T15:12:12Z" duration-ms="366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beauty -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:12:12Z" name="closebrowser" finished-at="2022-12-15T15:12:13Z" duration-ms="578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="intializewebdriverandopenurl()[pri:0, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:12:13Z" name="intializewebdriverandopenurl" finished-at="2022-12-15T15:12:59Z" duration-ms="46104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializewebdriverandopenurl -->
+        <test-method signature="toys()[pri:14, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:12:59Z" name="toys" finished-at="2022-12-15T15:12:59Z" duration-ms="345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toys -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:12:59Z" name="closebrowser" finished-at="2022-12-15T15:13:00Z" duration-ms="564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="intializewebdriverandopenurl()[pri:0, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:13:00Z" name="intializewebdriverandopenurl" finished-at="2022-12-15T15:13:46Z" duration-ms="46359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializewebdriverandopenurl -->
+        <test-method signature="drugs()[pri:15, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:13:46Z" name="drugs" finished-at="2022-12-15T15:13:46Z" duration-ms="313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- drugs -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:null(tes.flipkart.AppTest)]" started-at="2022-12-15T15:13:46Z" name="closebrowser" finished-at="2022-12-15T15:13:47Z" duration-ms="600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- tes.flipkart.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
